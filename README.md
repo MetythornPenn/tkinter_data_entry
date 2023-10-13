@@ -1,6 +1,9 @@
 # tkinter-data-entry
-Data entry form tutorial using Python and Tkinter. Source code for Youtube tutorial: https://youtu.be/vusUfPBsggw
+Data entry is a window application for enter label of image for training deep learning ocr using Python and Tkinter. 
 
-# convert python file to .exe 
-pip install pyinstaller
-pyinstaller main.py --onefile -w
+### Convert tkinter to standalone .exe 
+
+`pip install pyinstaller `
+
+`pyinstaller main.py --onefile -w`
+
