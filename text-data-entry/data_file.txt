@@ -1,0 +1,10 @@
+train/laplop_stand.jpg gsfsgdf
+train/laptop_stand.png fdafdff
+train/laplop_stand.jpg laptop stand
+Image Folder: /Users/macbookair/Documents/Pic &  Video/T-N
+Image Folder: 
+Image Folder: /Users/macbookair/Documents/Pic &  Video/T-N
+Image Folder: /Users/macbookair/Documents/Pic &  Video/T-N
+Image Folder: /Users/macbookair/Documents/Pic &  Video/T-N
+Image Folder: /Users/macbookair/Documents/Pic &  Video/T-N
+train/laplop_stand.jpg laptop stand

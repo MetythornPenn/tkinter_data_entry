@@ -110,17 +110,17 @@ button_next_image = tkinter.Button(frame, text="Next Image", command=next_image)
 button_next_image.grid(row=4, column=0, padx=20, pady=10, sticky="w")
 
 # ---------------- Button to enter data ---------------------
-label_frame = tkinter.LabelFrame(frame, text="User Information")
-label_frame.grid(row=0, column=1, padx=40, pady=20, rowspan=5, sticky="nsew")
+label_frame = tkinter.LabelFrame(frame, text="Enter Data Area")
+label_frame.grid(row=0, column=2, padx=40, pady=20, rowspan=5, sticky="nsew")
 
 text_label = tkinter.Label(label_frame, text="Label")
-text_label.grid(row=0, column=0)
+text_label.grid(row=0, column=1, columnspan=2, padx=20, pady=10, sticky="w")
 
 text_entry = tkinter.Entry(label_frame)
-text_entry.grid(row=0, column=1)
+text_entry.grid(row=0, column=2)
 
 for widget in label_frame.winfo_children():
-    widget.grid_configure(padx=10, pady=5, sticky="w")
+    widget.grid_configure(padx=100, pady=50, sticky="w")
 
 # ---------------- Button to enter data ---------------------
 button_enter_data = tkinter.Button(label_frame, text="Enter Data", command=enter_data)
