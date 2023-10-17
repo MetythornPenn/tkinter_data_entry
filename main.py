@@ -207,12 +207,3 @@ window.mainloop()
 
 
 
-
-
-
-
-
-
-
-
-
