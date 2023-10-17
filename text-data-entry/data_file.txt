@@ -8,3 +8,9 @@ Image Folder: /Users/macbookair/Documents/Pic &  Video/T-N
 Image Folder: /Users/macbookair/Documents/Pic &  Video/T-N
 Image Folder: /Users/macbookair/Documents/Pic &  Video/T-N
 train/laplop_stand.jpg laptop stand
+Image Folder: /Users/macbookair/Documents/Pic &  Video/house
+train/2023-08-27 17.12.50.jpg 
+train/2023-08-27 17.12.45.jpg 
+train/2023-08-27 17.12.23.jpg 
+train/2023-08-27 17.12.35.jpg 
+train/2023-08-27 17.12.19.jpg 
